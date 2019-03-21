@@ -214,3 +214,4 @@ rack (2.0.6) lib/rack/handler/webrick.rb:86:in `service'
   Rendering /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
   Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/actionpack-5.0.7.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (20.7ms)
+DEPRECATION WARNING: ActiveRecord::Base.raise_in_transactional_callbacks= is deprecated, has no effect and will be removed without replacement. (called from require at /usr/local/rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0/rubygems/core_ext/kernel_require.rb:54)
